@@ -1,2 +1,2 @@
 # Display-Antrian
-Farmasi, Radiologi, Laboratorium 
+Farmasi, Radiologi, Laboratorium untuk SIMKES Khanza
